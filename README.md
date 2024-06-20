@@ -18,7 +18,6 @@ Tools used during Analysis
 	
 ## Prepare data for exploration
 
-![image](https://github.com/rushmiithasri/Google-Data-Analytics-case-study/assets/67082247/b5ede9b7-35cf-4aaf-80f5-dea306299819)
 
 Step1:Downloaded January ,Feburary, march data 
 
@@ -36,7 +35,7 @@ After, combing all three months data,  Total number of rows are 6,39,424
 
 Null values count in the dataset
 
-![image](https://github.com/rushmiithasri/Google-Data-Analytics-case-study/assets/67082247/9adfee8e-1e1f-4ad4-b89b-f54232870f70)
+
 
 + Here in this dataset,
   	+ 14% null values for start_station_name which is 88,104 rows out of 6,39,424 rows.
@@ -52,7 +51,7 @@ What I did here is
 	+ By inserting pivot table for Trip data ,
 		+ Both column values NULL, NULL - 40,233
 		+ we got highest frequency for **Ellis Ave & 60th St, University Ave & 57th St** trip which is 2022
- ![image](https://github.com/rushmiithasri/Google-Data-Analytics-case-study/assets/67082247/68138ca9-007b-4395-a986-8b3222af15fa)
+ 
 
   + As we have both column values Null,Null are 40,233. By performing mode operation I'm filling null values with highest frequency value which is  **Ellis Ave & 60th St, University Ave & 57th St**
 	+ Start_station_name: out of 88104 null value rows, I have filled data for 40,233 with value **Ellis Ave & 60th St**
