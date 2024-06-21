@@ -63,13 +63,13 @@ What I did here is
 
 **Data Visualization**
 
-Step 1: Customer Type Distribution
+#### Step 1: Customer Type Distribution
 
 Using Quarter 1 2023 data, I began by visualizing the distribution of customer types. Understanding the composition of annual members and casual riders is a pivotal starting point of analysis.
  
 ![image](https://github.com/rushmiithasri/Google-DataAnalytics-casestudy/assets/67082247/a2dbbcd9-ea52-4b6b-aea3-8e7b69644e45)
 
-Step 2: Rides by Ride type
+#### Step 2: Rides by Ride type
 
 In this dataset, we have three types of ride types( Classic, electric, and docked bikes).
 
@@ -81,14 +81,14 @@ Electric bikes were preferred over classic bikes by both customer groups and Doc
  
 ![image](https://github.com/rushmiithasri/Google-DataAnalytics-casestudy/assets/67082247/696174a4-b67e-4fae-9b9c-028e10399889)
 
-Step 3: Distinct count start and stations
+#### Step 3: Distinct count start and stations
 
 Total number of unique start station are 1,039 and end stations are 1,059
 
  ![image](https://github.com/rushmiithasri/Google-DataAnalytics-casestudy/assets/67082247/2b53828f-bffd-4182-a0e8-dedba113e686)
 
 
-Step 4: Most Active Start Stations
+#### Step 4: Most Active Start Stations
 The Top 10 most active start stations for each group, providing insights into where rides commonly start from. Ellis Ave & 60th St was the most active start station for both annual and casual riders.
 
  
@@ -97,20 +97,20 @@ The Top 10 most active start stations for each group, providing insights into wh
 
 
  
-Step 5: Top routes
+#### Step 5: Top routes
 
 The leading route for both annual and casual riders was Ellis Ave & 60th St — University Ave & 57th St 
 ![image](https://github.com/rushmiithasri/Google-DataAnalytics-casestudy/assets/67082247/a6f6d649-2cbd-421a-956e-c3af3825c11e)
 
  
 
-Step 6: Week-over-week total analysis by ride type
+#### Step 6: Week-over-week total analysis by ride type
  Electric and  classic bike riders of both customers are high during every second week of every month
  
 ![image](https://github.com/rushmiithasri/Google-DataAnalytics-casestudy/assets/67082247/c410491d-b0b4-4d2b-af3c-4f6460a19c98)
 
 
-Step 7:  Top 10 Stations Month-over-Month Analysis by Ride Type
+#### Step 7:  Top 10 Stations Month-over-Month Analysis by Ride Type
 •	The highest number of annual members and casual riders who ride an electric bike starts from Ellis Ave & 60th St throughout the first quarter.
 •	The lowest number of annual members and casual riders who ride an electric bike starts from Ellis Ave & 55th St throughout the first quarter.
 
@@ -118,7 +118,7 @@ Step 7:  Top 10 Stations Month-over-Month Analysis by Ride Type
 ![image](https://github.com/rushmiithasri/Google-DataAnalytics-casestudy/assets/67082247/16a969fb-709d-48f2-914d-7f55b7380a0e)
 
 
-Step 8: Most Active End Stations
+#### Step 8: Most Active End Stations
 The Top 10 most active start stations for each group, providing insights into where rides commonly start from.  University Ave& 57th St was the most active start station for both annual and casual riders.
  
 ![image](https://github.com/rushmiithasri/Google-DataAnalytics-casestudy/assets/67082247/12c8368f-336b-4de0-a32d-65aa5757418d)
@@ -126,7 +126,7 @@ The Top 10 most active start stations for each group, providing insights into wh
 
 
  
-Step 9: Analyzing which rider type meets the average number of rides each month
+#### Step 9: Analyzing which rider type meets the average number of rides each month
 
 The annual members who ride electric and classic meet the average number of rides each month
  
