@@ -85,7 +85,8 @@ Electric bikes were preferred over classic bikes by both customer groups and Doc
 
 Total number of unique start station are 1,039 and end stations are 1,059
 
- ![image](https://github.com/rushmiithasri/Google-DataAnalytics-casestudy/assets/67082247/2b53828f-bffd-4182-a0e8-dedba113e686)
+![image](https://github.com/rushmiithasri/Google-DataAnalytics-casestudy/assets/67082247/2d8996fc-06a8-42f4-b56c-3e61090ef9e7)
+
 
 
 #### Step 4: Most Active Start Stations
