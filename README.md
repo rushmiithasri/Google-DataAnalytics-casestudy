@@ -45,7 +45,7 @@ Null values count in the dataset
 	+ we got highest frequency **start_station_name** as _"University Ave & 57th St"_ -**Frequency value[5908]**
    	+ we got highest frequency **end_station_name** as _"University Ave & 57th St"_ -**Frequency value[5908]**
 
-[NOTE]
+**Note:**
 For both columns, highest frequency values is same which is **University Ave & 57th St**. Replacing all the null values of both columns with same value which doesn't make sense.
 What I did here is 
 	+ I have concated both start_station_name and end_station_name column to a new_column [Trip]
@@ -59,5 +59,5 @@ What I did here is
 	+ End_station_name: out of 93,106 null value rows, I have filled data for 40,233 with value  **University Ave & 57th St**
 + We have almost **93%** of dataset with values and I'm excluding remaining 7% data where we have Null value for only one column either in start_station_name or end_station_name.
 
-  Note: 15% of start and end station columns contain NULL data, instead of removing all null data, I prefered to follow Mode operation and fill the NUll values with highest frequency value.
+**Note:** 15% of start and end station columns contain NULL data, instead of removing all null data, I prefered to follow Mode operation and fill the NUll values with highest frequency value.
 
